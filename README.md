@@ -1,5 +1,5 @@
 # OrthoNets : Orthogonal Channel Attention Networks
-PyTorch's implementation of the paper "[OrthoNet : Orthogonal Channel Attention Networks](-)".
+PyTorch's implementation of the paper "[OrthoNet : Orthogonal Channel Attention Networks](https://arxiv.org/abs/2311.03071)".
 
 ![alt text](images/main.png "vis")
 
